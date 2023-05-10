@@ -8,8 +8,7 @@ Class SiteValidator extends Validator
     public function rules()
     {
         return [
-            'name' => 'required',
-            'price' => 'required',
+            'name' => 'required'
         ];
     }
 }

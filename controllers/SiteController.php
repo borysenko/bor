@@ -1,6 +1,6 @@
 <?php
 namespace controllers;
-include_once '../bor/Helper.php';
+
 use bor\Auth;
 use bor\Controller;
 use bor\DB;
